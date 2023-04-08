@@ -1,2 +1,3 @@
-# miniblink
-Miniblink是一个追求极致小巧的浏览器内核项目。其基于chromium最新版内核，去除了chromium所有多余的部件，只保留最基本的排版引擎blink。Miniblink保持了10M左右的极简大小，是所有同类产品最小的体积，同时支持windows xp、npapi。
+# webview
+
+可独立使用，也可结合 [xcgui](https://github.com/twgh/xcgui) 来使用。
